@@ -1,0 +1,62 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f5f5f5;
+}
+
+#home {
+    padding: 50px 0;
+}
+
+.carousel-caption h5, .carousel-caption p {
+    color: #fff;
+    background-color: rgba(89, 88, 88, 0.248);
+    padding: 10px;
+}
+
+#about {
+    background-color: #ffbe0b;
+    padding: 50px 0;
+    border-radius: 10px;
+}
+
+#user-info {
+    background-color: #ff006e;
+    padding: 50px 0;
+    color: #fff;
+    border-radius: 10px;
+}
+
+#quiz {
+    background-color: #fb5607;
+    padding: 50px 0;
+    color: #fff;
+    border-radius: 10px;
+}
+
+#feedback {
+    background-color: #8338ec;
+    padding: 50px 0;
+    color: #fff;
+    border-radius: 10px;
+}
+
+/* Smaller input boxes */
+form .form-control {
+    width: 50%; /* Adjust the percentage as needed */
+    max-width: 300px; /* Optional: set a maximum width */
+    margin: 0 auto; /* Center the input box */
+}
+
+footer {
+    background-color: #3a86ff;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #3a86ff;
+    border-color: #3a86ff;
+}
+
+#quiz .btn {
+    margin: 0 5px;
+}
